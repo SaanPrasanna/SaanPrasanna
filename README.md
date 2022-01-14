@@ -7,8 +7,7 @@ I'm an undergraduate in Software Technology🎓 at the University of Vocational 
 #### Personal Stuffs:
 🚀 &nbsp; I’m currently learning Machine Learning.\
 💬 &nbsp; Ask me about anything.\
-📫 &nbsp; How to reach me: sandunpmapa@gmail.com.\
-💼 &nbsp; Any freelancing work? [email](mailto:sandunpmapa@gmail.com) 🙂
+📫 &nbsp; How to reach me, [email](mailto:sandunpmapa@gmail.com) 🙂
 
 #### Technology Stack:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
