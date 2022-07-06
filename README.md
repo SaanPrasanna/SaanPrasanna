@@ -1,4 +1,4 @@
-### Hello World, I'm [Sandun Prasanna!](https://github.com/SaanPrasanna/)
+### Hello World👋, I'm [Sandun Prasanna!](https://github.com/SaanPrasanna/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SandunPrasanna)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SaanPrasanna)
 #### Glad to see you here!
