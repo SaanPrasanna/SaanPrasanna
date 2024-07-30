@@ -1,6 +1,6 @@
 ### Hello World👋, I'm [Sandun Prasanna!](https://github.com/SaanPrasanna/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SandunPrasanna)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SaanPrasanna)
+[![Twitter Badge](https://img.shields.io/badge/-x.com-00acee?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SaanPrasanna)
 #### Glad to see you here!
 I'm a Software Technology undergraduate🎓 at the University of Vocational Technology, Sri Lanka🏛. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems🎯. I'm currently into software development☕.
 
