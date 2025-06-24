@@ -38,9 +38,6 @@ I'm a Software Technology undergraduate🎓 at the University of Vocational Tech
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-#### Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/SaanPrasanna/SaanPrasanna/output/github-contribution-grid-snake.svg)
-
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
   <p align="center"><img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SaanPrasanna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
