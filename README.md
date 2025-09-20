@@ -42,6 +42,3 @@ I'm a Software Engineering graduate🎓 from the University of Vocational Techno
   <summary><b>☄️ Github Streaks</b></summary>
   <p align="center"><img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SaanPrasanna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
 </details>
-
-#### Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/SaanPrasanna/SaanPrasanna/output/github-contribution-grid-snake.svg)
