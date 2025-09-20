@@ -1,7 +1,7 @@
 ### Hello World👋, I'm [Sandun Prasanna!](https://github.com/SaanPrasanna/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SandunPrasanna)
 #### Glad to see you here!
-I'm a Software Technology undergraduate🎓 at the University of Vocational Technology, Sri Lanka🏛. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems🎯. I'm currently into software development☕.
+I'm a Software Engineering graduate🎓 from the University of Vocational Technology, Sri Lanka🏛. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems🎯. I'm currently into software development☕.
 
 #### Personal Stuffs:
 🔭 &nbsp; I’m currently learning Machine Learning.\
@@ -42,3 +42,6 @@ I'm a Software Technology undergraduate🎓 at the University of Vocational Tech
   <summary><b>☄️ Github Streaks</b></summary>
   <p align="center"><img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SaanPrasanna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
 </details>
+
+#### Contribution Snake
+![GitHub Snake Animation](https://raw.githubusercontent.com/SaanPrasanna/SaanPrasanna/output/github-contribution-grid-snake.svg)
