@@ -4,7 +4,7 @@
 I'm a Software Engineering graduate🎓 from the University of Vocational Technology, Sri Lanka🏛. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems🎯. I'm currently into software development☕.
 
 #### Personal Stuffs:
-🔭 &nbsp; I’m currently learning Machine Learning.\
+🔭 &nbsp; I’m currently learning **Machine Learning**.\
 💬 &nbsp; Ask me about anything.\
 📫 &nbsp; How to reach me, [email](mailto:sandunpmapa@gmail.com) 🙂
 
@@ -41,4 +41,11 @@ I'm a Software Engineering graduate🎓 from the University of Vocational Techno
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
   <p align="center"><img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SaanPrasanna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
+</details>
+
+<details>
+  <summary><b>🐍 Github Contribution Grid Snake</b></summary>
+  <p align="center">
+    <img alt="github contribution grid snake animation" src="https://github.com/SaanPrasanna/SaanPrasanna/blob/output/github-contribution-grid-snake.svg" />
+  </p>
 </details>
